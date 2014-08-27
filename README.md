@@ -1,4 +1,7 @@
 Hello-World
 ===========
 
-Homework assignemnt
+-Chris
+-Liz
+-Simba
+-Lillie
